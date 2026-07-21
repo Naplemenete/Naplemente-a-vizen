@@ -1,0 +1,1 @@
+Töltsd fel a fájlokat GitHubra, majd Settings > Pages > Deploy from a branch > main > /(root).
